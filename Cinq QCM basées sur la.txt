@@ -1,0 +1,7 @@
+Cinq QCM basées sur la solution fournie.
+
+Question 1 : b
+Question 2 : b
+Question 3 : a
+Question 4 : c
+Question 5 : c
